@@ -1,0 +1,8 @@
+{
+  "uuid": "pill-panel@local",
+  "name": "Pill Panel",
+  "description": "Floating, rounded and semi-transparent top bar for GNOME Shell.",
+  "shell-version": ["50"],
+  "url": "https://github.com/mkandreum/gnome-pill-panel",
+  "version": 1
+}
